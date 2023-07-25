@@ -9,6 +9,7 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 
 一键免费部署你的跨平台私人 ChatGPT 应用。
 new next
+pull new dev
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
