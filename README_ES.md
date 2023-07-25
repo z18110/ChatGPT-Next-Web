@@ -4,6 +4,7 @@
 <h1 align="center">ChatGPT Next Web</h1>
 
 Implemente su aplicación web privada ChatGPT de forma gratuita con un solo clic.
+demo：
 
 [Demo demo](https://chat-gpt-next-web.vercel.app/) / [Problemas de comentarios](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Únete a Discord](https://discord.gg/zrhvHCr79N) / [Grupo QQ](https://user-images.githubusercontent.com/16968934/228190818-7dd00845-e9b9-4363-97e5-44c507ac76da.jpeg) / [Desarrolladores de consejos](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg) / [Donar](#捐赠-donate-usdt)
 
